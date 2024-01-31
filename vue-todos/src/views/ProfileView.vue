@@ -4,11 +4,9 @@
 
 <template>
     <div>
-        This is Home !!
+        Profile page here
     </div>
 </template>
-
-
 
 <style lang="scss" scoped>
 
